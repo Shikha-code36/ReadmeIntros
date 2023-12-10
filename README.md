@@ -1,69 +1,92 @@
-# Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=heeranwalnitish&label=Profile%20Visits&color=blue&style=for-the-badge)
-## I'm Nitish Kumar!
+<h1 align="center"> 
+<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
+</h1>
 
-- 🔭 I'm a Data Scientist with expertise in various areas of data science and machine learning.
-- 🌱 I’m currently learning more in the field of NLP etc.
-- 😄 Pronouns: He / Him
-- 🔥 I really love the thrill of making what I want possible!
-- ⚡ Fun fact: My name is an anagram of "I Play Data"
+<img align='left' src="https://media.giphy.com/media/Ig36GBEnn9LEUTzorR/giphy.gif" width="230">
 
-## 📫 How to reach me:
+### ME<img src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif" width="30">
+
+
+
+>>> Myself Rahul Singh ✌🏻<br>
+>>> Hey there! 👋 I'm a passionate and fast-learning Python developer. 🚀 As a fresher in the coding realm, I specialize in crafting sleek and intuitive GUI applications using Tkinter. 🎨 When it comes to building scalable solutions, I love diving into Flask and Socket for creating small-scale applications that pack a punch! 💻
+<br>
+
+>>> 
+But that's not all—I bring a creative touch to the tech world. 🎧 With hands-on experience in music production using FL Studio, I find harmony in both the code and the beats.🎶
+<hr width=50%/>
+<br>
+<br>
+<br>
+<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> 
+
+
+### SKILLS <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
+![Python](https://img.shields.io/badge/Python-blue?logo=python) <br>
+![Git](https://img.shields.io/badge/Git-green?logo=git) <br>
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) <br>
+![Tkinter](https://img.shields.io/badge/Tkinter-orange?logo=python) <br>
+![Flask](https://img.shields.io/badge/Flask-red?logo=flask)<br>
+![Socket](https://img.shields.io/badge/Socket-yellow?logo=python)<br>
+![HTML](https://img.shields.io/badge/HTML-purple?logo=html5)<br>
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blueviolet?logo=python)<br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-success?logo=bootstrap)<br>
+![FL Studio](https://img.shields.io/badge/FL_Studio-critical?logo=flstudio)<br>
+![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)<br>
+![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm)
+
+
+
+<br>
+<br>
+<br>
+
+ 
+  ## Stats!! ( ﾉ ﾟｰﾟ)ﾉ
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nitish-kumar-bb46ba259/)   &nbsp; <a href="mailto:nitishkumar2319998@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
-## Skills
-
-### Technical Skills
-
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?logo=python)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange?logo=tensorflow)
-![Natural Language Processing](https://img.shields.io/badge/-NLP-brightgreen?logo=nlp)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-red?logo=opencv)
-![Attention](https://img.shields.io/badge/-Attention-yellow)
-![Clustering](https://img.shields.io/badge/-Clustering-lightgrey)
-![Recommender Systems](https://img.shields.io/badge/-Recommender%20Systems-blueviolet)
-![Probability & Statistics](https://img.shields.io/badge/-Probability%20%26%20Statistics-blue)
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/-Linux-green?logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows)
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![SQL](https://img.shields.io/badge/-SQL-orange?logo=sql)
-
-### Frameworks and Libraries
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-red?logo=keras)
-![Pytorch](https://img.shields.io/badge/-Pytorch-purple?logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-lightgrey?logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/-XGBoost-green?logo=xgboost)
-![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas)
-![Flask API](https://img.shields.io/badge/-Flask%20API-lightgrey?logo=flask)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?logo=rabbitmq)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-lightblue?logo=seaborn)
-![Regex](https://img.shields.io/badge/-Regex-yellow)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-green)
-![YOLO](https://img.shields.io/badge/-YOLO-red)
-
-<br/>
-
-[![Github Follow](https://img.shields.io/github/followers/heeranwalnitish?label=Follow%20Me&style=social)](https://github.com/heeranwalnitish)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeranwalnitish&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=heeranwalnitish&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=heeranwalnitish&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  ![ViewCount](https://views.whatilearened.today/views/github/rsrahulak0/views.svg)   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=heeranwalnitish&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=heeranwalnitish&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
-<p align="center">
-  <samp>
-    <br>
-    Show some ❤️ by starring <a href="https://github.com/heeranwalnitish?tab=repositories">my repositories</a>!
-  </samp>
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsrahulak0&theme=algolia&hide_border=true" width="49%"> 
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=rsrahulak0&show_icons=true&theme=algolia&hide_border=true" width="49%" />
+  
+
+  <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
+ 
+ 
+  <img align = "center" alt="rsrahulak0's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrahulak0&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="40%" />
+ 
+  
+  </div>
+     
+ 
+
+
+<br>
+<br>
+<br>
+<img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="210">
+ 
+  ### Connect Me..(●'◡'●)
+  
+
+
+<a href="https://www.linkedin.com/in/rahul-singh-536017284/"><img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+     <br>
+     
+<a href="mailto:rsrahulak0@gmail.com"><img height="25" src="https://img.icons8.com/fluent/48/000000/gmail.png"></a>
+     <br>
+
+     
+<a href="https://www.youtube.com/channel/UCJO4DKXB4kfuqKBkpNy7hMQ"><img height="30" src="https://img.icons8.com/fluent/48/000000/youtube.png"></a>
+     <br>
+
+
+<br>
+<br>   
+Ready to collaborate and innovate, I'm excited about the endless possibilities that code and creativity can bring! Let's build something awesome together! 🚀✨
+
+     
